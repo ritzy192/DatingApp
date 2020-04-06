@@ -1,0 +1,7 @@
+06/04/2020
+
+Advantages Repository Patterns:
+    Minimises dublicate query logic
+    Decouples Application from persistence framework
+    All DB queries in the same place
+    Promotes testability
