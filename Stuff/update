@@ -5,3 +5,7 @@ Advantages Repository Patterns:
     Decouples Application from persistence framework
     All DB queries in the same place
     Promotes testability
+
+13/04/2020
+
+Using ngx bootstrap in place of bootstrap.js to avoid using jQuery in the angular application
