@@ -20,7 +20,7 @@ export class MemberEditComponent implements OnInit {
 
   updateUser() {
     console.log(this.user);
-    this.alertify.confirm("Profile updated Successfully");
+    this.alertify.success('Profile updated Successfully');
   }
 
 }
